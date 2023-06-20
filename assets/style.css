@@ -95,6 +95,11 @@ tfoot td {
   text-transform: uppercase;
 }
 
+[name]:hover {
+  background-color: #6a6b67;
+  color: #d3d3d3;
+}
+
 tfoot td:first-of-type {
   border-bottom-left-radius: 10px;
 }
