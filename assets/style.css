@@ -38,6 +38,7 @@ th:nth-of-type(4) {
 
 th:last-of-type {
   background-color: #07153a;
+  border-top-right-radius:  10px;
 }
 
 p:nth-child(2) {
